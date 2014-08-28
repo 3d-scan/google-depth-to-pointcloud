@@ -15,4 +15,4 @@ Rename your Lens Blur images as "front.jpg" and "back.jpg" then put them in the 
 
 	go run depth-to-pointcloud.go
 
-The resulting PYL file be in the same directory and named "the_cloud.ply". Enjoy!
+The resulting PLY file be in the same directory and named "the_cloud.ply". Enjoy!
