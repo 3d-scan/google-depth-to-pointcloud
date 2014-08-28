@@ -1,4 +1,4 @@
-README
+Readme
 ==========================
 
 This tool takes two images from Android Lens Blur and tries to make a single pointcloud from them (in PLY format).
@@ -8,6 +8,7 @@ A few warnings before you begin:
 * Makes some assumptions about how the XMP data is encoded and will likely only work on Android Lens Blur photos.
 * The resulting PLY files are quite large. Anywhere from 50 to 150 MB.
 * Consequently, the tool will take a little while to process your images. Patience, young padawan.
+* ...but it might not be worth it, because it generally doesn't work. Still, making point clouds is fun.
 
 ## Usage
 
